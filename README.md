@@ -3,9 +3,9 @@ deviant
 
 ## Installation
 
-1. git clone git@github.com:n3uromanc3r/deviant.git
-2. cd deviant
-3. npm install
+1. `git clone git@github.com:n3uromanc3r/deviant.git`
+2. `cd deviant`
+3. `npm install`
 
 
 ## Configure
@@ -25,4 +25,4 @@ The accountToRip takes a DeviantArt account username, so the above config will d
 
 ## Run
 
-1. npm index.js
+1. `npm index.js`

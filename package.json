@@ -1,0 +1,30 @@
+{
+  "name": "deviantart-gallery-downloader",
+  "version": "1.0.0",
+  "description": "DeviantArt Gallery Downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:n3uromanc3r/deviant.git"
+  },
+  "readme": "README.md",
+  "keywords": [
+    "deviantart",
+    "gallery",
+    "downloader"
+  ],
+  "author": "keito",
+  "license": "GPLv2",
+  "dependencies": {},
+  "devDependencies": {
+    "bhttp": "^1.2.1",
+    "bluebird": "^2.9.34",
+    "cheerio": "^0.19.0",
+    "fs": "0.0.2",
+    "mkdirp": "^0.5.1",
+    "request": "^2.61.0"
+  }
+}
